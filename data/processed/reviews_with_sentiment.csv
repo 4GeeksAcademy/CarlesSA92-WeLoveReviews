@@ -1,0 +1,501 @@
+review_id,rating,review_text,predicted_rating,sentiment
+1,5,Visited Harbor House Café last weekend. Great spot to work or catch up with friends. Every dish was bursting with flavor. Worth every penny. Already planning my next visit.,5,positive
+2,5,Tried Harbor House Café after seeing it recommended online. The coffee was rich and perfectly brewed. Great spot to work or catch up with friends. Great value for what you get. Five stars without hesitation.,5,positive
+3,5,Tried Harbor House Café after seeing it recommended online. Great spot to work or catch up with friends. The seasonal menu never disappoints. Great value for what you get. Already planning my next visit.,5,positive
+4,5,Visited Harbor House Café last weekend. The staff were warm and attentive. The music and decor set the perfect mood. Worth every penny. Five stars without hesitation.,5,positive
+5,5,Grabbed a quick coffee at Harbor House Café this morning. They went out of their way to accommodate my allergy. The food was absolutely delicious. Five stars without hesitation.,5,positive
+6,5,Stopped by Harbor House Café for the first time. The music and decor set the perfect mood. They went out of their way to accommodate my allergy. Will definitely be back!,5,positive
+7,5,Stopped by Harbor House Café for the first time. The team clearly cares about the customers. The sourdough bread alone is worth the visit. Worth every penny. Highly recommend to anyone in the area.,5,positive
+8,5,Came to Harbor House Café for a birthday brunch. Great spot to work or catch up with friends. Our server remembered our names by the second visit. Worth every penny. This is now my go-to spot.,5,positive
+9,3,"Regular customer at Harbor House Café here. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. It's fine for a quick stop.",3,neutral
+10,5,"The pastries were incredible. The staff seemed annoyed to be there, but honestly the food made up for it. This is now my go-to spot.",5,positive
+11,5,Tried Harbor House Café after seeing it recommended online. The staff were warm and attentive. Loved the natural light and the plants everywhere. This is now my go-to spot.,5,positive
+12,5,Regular customer at Harbor House Café here. The pastries were incredible. Service was fast and friendly. Great value for what you get. Will definitely be back!,5,positive
+13,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. The seasonal menu never disappoints. Will definitely be back!,5,positive
+14,4,Tried Harbor House Café after seeing it recommended online. Every dish was bursting with flavor. The team clearly cares about the customers. Already planning my next visit.,1,negative
+15,5,"Every dish was bursting with flavor. The place has such a cozy, welcoming vibe. Already planning my next visit.",1,negative
+16,3,Stopped by Harbor House Café for the first time. The menu is fine but a bit repetitive. The cashier was rude when i asked about the menu. Might give it another shot.,3,neutral
+17,4,"Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The staff were polite but a bit slow, but overall a solid experience. Five stars without hesitation.",5,positive
+18,5,Came to Harbor House Café for a birthday brunch. The team clearly cares about the customers. The seasonal menu never disappoints. Great value for what you get. Already planning my next visit.,5,positive
+19,4,"Regular customer at Harbor House Café here. The pastries were incredible. The staff were polite but a bit slow, but overall a solid experience. Might give it another shot.",4,positive
+20,5,They went out of their way to accommodate my allergy. Loved the natural light and the plants everywhere. Great value for what you get. Will definitely be back!,5,positive
+21,4,"The coffee was rich and perfectly brewed. The staff were polite but a bit slow, but overall a solid experience. This is now my go-to spot.",4,positive
+22,5,"Fresh ingredients you can really taste. We waited 25 minutes just to get water, but honestly the food made up for it. Will definitely be back!",5,positive
+23,3,Regular customer at Harbor House Café here. The menu is fine but a bit repetitive. The staff were polite but a bit slow. It's fine for a quick stop.,3,neutral
+24,5,Tried Harbor House Café after seeing it recommended online. Service was fast and friendly. The food was absolutely delicious. Worth every penny. Will definitely be back!,5,positive
+25,3,"Visited Harbor House Café last weekend. The coffee was okay. Service was fine, nothing memorable. Might give it another shot.",3,neutral
+26,5,Grabbed a quick coffee at Harbor House Café this morning. Our server remembered our names by the second visit. Great spot to work or catch up with friends. Reasonably priced for the quality. Will definitely be back!,5,positive
+27,5,Visited Harbor House Café last weekend. Every dish was bursting with flavor. Service was fast and friendly. Worth every penny. This is now my go-to spot.,5,positive
+28,5,"Visited Harbor House Café last weekend. The food was absolutely delicious. Our server got our order wrong twice, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+29,5,Stopped by Harbor House Café for the first time. Great spot to work or catch up with friends. The staff were warm and attentive. Great value for what you get. Will definitely be back!,5,positive
+30,5,Grabbed a quick coffee at Harbor House Café this morning. The food was absolutely delicious. Great spot to work or catch up with friends. Worth every penny. Will definitely be back!,5,positive
+31,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. The sourdough bread alone is worth the visit. Will definitely be back!,5,positive
+32,2,Stopped by Harbor House Café for the first time. My eggs came out cold. The cashier was rude when i asked about the menu. Not sure I'll be returning.,1,negative
+33,4,"Regular customer at Harbor House Café here. Every dish was bursting with flavor. The staff were polite but a bit slow, but overall a solid experience. It's fine for a quick stop.",4,positive
+34,2,Stopped by Harbor House Café for the first time. The pastry was stale. Our server got our order wrong twice. Not sure I'll be returning.,1,negative
+35,5,Regular customer at Harbor House Café here. The staff were warm and attentive. Fresh ingredients you can really taste. Five stars without hesitation.,5,positive
+36,4,"Regular customer at Harbor House Café here. Every dish was bursting with flavor. The staff were polite but a bit slow, but overall a solid experience. Highly recommend to anyone in the area.",4,positive
+37,5,Grabbed a quick coffee at Harbor House Café this morning. The staff were warm and attentive. The sourdough bread alone is worth the visit. Highly recommend to anyone in the area.,5,positive
+38,5,Stopped by Harbor House Café for the first time. The pastries were incredible. Our server remembered our names by the second visit. Will definitely be back!,5,positive
+39,5,"Came to Harbor House Café for a birthday brunch. The seasonal menu never disappoints. The place has such a cozy, welcoming vibe. Highly recommend to anyone in the area.",5,positive
+40,5,The staff were warm and attentive. Loved the natural light and the plants everywhere. Great value for what you get. Five stars without hesitation.,5,positive
+41,5,Grabbed a quick coffee at Harbor House Café this morning. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Will definitely be back!,5,positive
+42,4,"The coffee was rich and perfectly brewed. The staff were polite but a bit slow, but overall a solid experience. It's fine for a quick stop.",4,positive
+43,3,"Visited Harbor House Café last weekend. The coffee was okay. Service was fine, nothing memorable. It's fine for a quick stop.",3,neutral
+44,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The pastries were incredible. Worth every penny. This is now my go-to spot.,5,positive
+45,4,"Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. The staff were polite but a bit slow, but overall a solid experience. Might give it another shot.",4,positive
+46,5,Tried Harbor House Café after seeing it recommended online. Our server remembered our names by the second visit. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+47,2,Came to Harbor House Café for a birthday brunch. The portions were way too small for the price. Our server got our order wrong twice. Probably won't recommend it to friends.,2,negative
+48,5,Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. Service was fast and friendly. Great value for what you get. Five stars without hesitation.,5,positive
+49,2,Tried Harbor House Café after seeing it recommended online. The coffee tasted burnt. The staff seemed annoyed to be there. Probably won't recommend it to friends.,1,negative
+50,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. Service was fast and friendly. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+51,4,"Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. We waited 25 minutes just to get water, but overall a solid experience. Will definitely be back!",5,positive
+52,5,"Visited Harbor House Café last weekend. The coffee was rich and perfectly brewed. The place has such a cozy, welcoming vibe. Reasonably priced for the quality. Will definitely be back!",5,positive
+53,5,"Came to Harbor House Café for a birthday brunch. The place has such a cozy, welcoming vibe. The team clearly cares about the customers. Already planning my next visit.",5,positive
+54,5,"Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The place has such a cozy, welcoming vibe. Five stars without hesitation.",5,positive
+55,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. The food was absolutely delicious. Five stars without hesitation.,5,positive
+56,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The seasonal menu never disappoints. Great value for what you get. Already planning my next visit.,5,positive
+57,5,"Grabbed a quick coffee at Harbor House Café this morning. Service was fast and friendly. The place has such a cozy, welcoming vibe. This is now my go-to spot.",5,positive
+58,4,"Every dish was bursting with flavor. Average service, no complaints, but overall a solid experience. Five stars without hesitation.",5,positive
+59,4,"Visited Harbor House Café last weekend. The sourdough bread alone is worth the visit. The staff were polite but a bit slow, but overall a solid experience. Five stars without hesitation.",5,positive
+60,5,Regular customer at Harbor House Café here. Every dish was bursting with flavor. The music and decor set the perfect mood. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+61,4,"Came to Harbor House Café for a birthday brunch. Best brunch i've had in months. Average service, no complaints, but overall a solid experience. Might give it another shot.",4,positive
+62,5,Stopped by Harbor House Café for the first time. Loved the natural light and the plants everywhere. The staff were warm and attentive. Will definitely be back!,5,positive
+63,5,Came to Harbor House Café for a birthday brunch. The food was absolutely delicious. The staff were warm and attentive. Will definitely be back!,5,positive
+64,5,"Came to Harbor House Café for a birthday brunch. The place has such a cozy, welcoming vibe. Every dish was bursting with flavor. This is now my go-to spot.",5,positive
+65,5,"Tried Harbor House Café after seeing it recommended online. The place has such a cozy, welcoming vibe. Service was fast and friendly. This is now my go-to spot.",5,positive
+66,4,"Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. Average service, no complaints, but overall a solid experience. It's fine for a quick stop.",4,positive
+67,5,The team clearly cares about the customers. The coffee was rich and perfectly brewed. Reasonably priced for the quality. Will definitely be back!,5,positive
+68,5,Came to Harbor House Café for a birthday brunch. Service was fast and friendly. Fresh ingredients you can really taste. Reasonably priced for the quality. Will definitely be back!,5,positive
+69,5,"Visited Harbor House Café last weekend. The place has such a cozy, welcoming vibe. The food was absolutely delicious. Worth every penny. Will definitely be back!",5,positive
+70,2,Grabbed a quick coffee at Harbor House Café this morning. My eggs came out cold. Nobody checked on us the entire meal. Not sure I'll be returning.,1,negative
+71,5,Came to Harbor House Café for a birthday brunch. The pastries were incredible. The staff were warm and attentive. Worth every penny. Highly recommend to anyone in the area.,5,positive
+72,5,Tried Harbor House Café after seeing it recommended online. Best brunch i've had in months. Our server remembered our names by the second visit. This is now my go-to spot.,5,positive
+73,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Every dish was bursting with flavor. Worth every penny. Already planning my next visit.,1,negative
+74,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. Every dish was bursting with flavor. Five stars without hesitation.",5,positive
+75,5,Tried Harbor House Café after seeing it recommended online. Service was fast and friendly. The food was absolutely delicious. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+76,4,"Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Service was fine, nothing memorable, but overall a solid experience. This is now my go-to spot.",4,positive
+77,5,"Visited Harbor House Café last weekend. Fresh ingredients you can really taste. The cashier was rude when i asked about the menu, but honestly the food made up for it. Already planning my next visit.",4,positive
+78,1,Regular customer at Harbor House Café here. The portions were way too small for the price. Nobody checked on us the entire meal. Not sure I'll be returning.,2,negative
+79,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. They went out of their way to accommodate my allergy. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+80,3,"Regular customer at Harbor House Café here. The coffee was okay. Service was fine, nothing memorable. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+81,5,Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. They went out of their way to accommodate my allergy. Worth every penny. This is now my go-to spot.,5,positive
+82,5,"Came to Harbor House Café for a birthday brunch. The place has such a cozy, welcoming vibe. The pastries were incredible. Will definitely be back!",5,positive
+83,4,"Regular customer at Harbor House Café here. The sourdough bread alone is worth the visit. Service was fine, nothing memorable, but overall a solid experience. This is now my go-to spot.",4,positive
+84,4,"Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. Will definitely be back!",4,positive
+85,5,Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Reasonably priced for the quality. Will definitely be back!,4,positive
+86,5,The food was absolutely delicious. The music and decor set the perfect mood. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+87,5,Tried Harbor House Café after seeing it recommended online. The seasonal menu never disappoints. They went out of their way to accommodate my allergy. Will definitely be back!,1,negative
+88,3,"Average sandwiches, nothing to write home about. Average service, no complaints. It's fine for a quick stop.",3,neutral
+89,5,Tried Harbor House Café after seeing it recommended online. Loved the natural light and the plants everywhere. Service was fast and friendly. Worth every penny. This is now my go-to spot.,5,positive
+90,5,"Tried Harbor House Café after seeing it recommended online. The team clearly cares about the customers. The place has such a cozy, welcoming vibe. Five stars without hesitation.",5,positive
+91,5,Visited Harbor House Café last weekend. Every dish was bursting with flavor. Great spot to work or catch up with friends. Five stars without hesitation.,5,positive
+92,5,Came to Harbor House Café for a birthday brunch. The seasonal menu never disappoints. Loved the natural light and the plants everywhere. Great value for what you get. Five stars without hesitation.,5,positive
+93,4,"Tried Harbor House Café after seeing it recommended online. The food was absolutely delicious. The staff were polite but a bit slow, but overall a solid experience. Five stars without hesitation.",5,positive
+94,5,"The place has such a cozy, welcoming vibe. The food was absolutely delicious. Highly recommend to anyone in the area.",5,positive
+95,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Fresh ingredients you can really taste. Already planning my next visit.,5,positive
+96,4,"Visited Harbor House Café last weekend. The pastries were incredible. Service was fine, nothing memorable, but overall a solid experience. Will definitely be back!",4,positive
+97,5,Great spot to work or catch up with friends. The pastries were incredible. Five stars without hesitation.,5,positive
+98,5,Regular customer at Harbor House Café here. The pastries were incredible. Service was fast and friendly. This is now my go-to spot.,5,positive
+99,5,"The pastries were incredible. The place has such a cozy, welcoming vibe. Highly recommend to anyone in the area.",5,positive
+100,1,Came to Harbor House Café for a birthday brunch. The coffee tasted burnt. The cashier was rude when i asked about the menu. The place felt cramped and chaotic. Not sure I'll be returning.,2,negative
+101,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. The seasonal menu never disappoints. This is now my go-to spot.,5,positive
+102,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. Service was fast and friendly. Reasonably priced for the quality. Already planning my next visit.,5,positive
+103,5,"Tried Harbor House Café after seeing it recommended online. The food was absolutely delicious. The place has such a cozy, welcoming vibe. Reasonably priced for the quality. Already planning my next visit.",4,positive
+104,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. The team clearly cares about the customers. Worth every penny. Already planning my next visit.,5,positive
+105,5,Grabbed a quick coffee at Harbor House Café this morning. The staff were warm and attentive. The music and decor set the perfect mood. Great value for what you get. This is now my go-to spot.,5,positive
+106,5,"Tried Harbor House Café after seeing it recommended online. The place has such a cozy, welcoming vibe. Fresh ingredients you can really taste. Reasonably priced for the quality. Highly recommend to anyone in the area.",5,positive
+107,1,Tried Harbor House Café after seeing it recommended online. The coffee tasted burnt. We waited 25 minutes just to get water. Expected a lot more given the reviews.,1,negative
+108,5,Grabbed a quick coffee at Harbor House Café this morning. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Will definitely be back!,5,positive
+109,5,"Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. The place has such a cozy, welcoming vibe. Worth every penny. Highly recommend to anyone in the area.",5,positive
+110,3,"Regular customer at Harbor House Café here. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. Might give it another shot.",3,neutral
+111,5,Tried Harbor House Café after seeing it recommended online. Service was fast and friendly. Loved the natural light and the plants everywhere. Worth every penny. Five stars without hesitation.,5,positive
+112,5,Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. Best brunch i've had in months. Highly recommend to anyone in the area.,5,positive
+113,4,"Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. We waited 25 minutes just to get water, but overall a solid experience. Will definitely be back!",5,positive
+114,5,"Regular customer at Harbor House Café here. The place has such a cozy, welcoming vibe. Service was fast and friendly. This is now my go-to spot.",5,positive
+115,2,Grabbed a quick coffee at Harbor House Café this morning. The pastry was stale. We waited 25 minutes just to get water. Disappointing experience overall.,2,negative
+116,4,"Came to Harbor House Café for a birthday brunch. The food was absolutely delicious. We waited 25 minutes just to get water, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+117,4,"Came to Harbor House Café for a birthday brunch. Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. Five stars without hesitation.",5,positive
+118,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Loved the natural light and the plants everywhere. Great value for what you get. This is now my go-to spot.,5,positive
+119,4,"Grabbed a quick coffee at Harbor House Café this morning. The sourdough bread alone is worth the visit. Average service, no complaints, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+120,5,Stopped by Harbor House Café for the first time. Fresh ingredients you can really taste. Our server remembered our names by the second visit. Reasonably priced for the quality. Already planning my next visit.,5,positive
+121,5,Came to Harbor House Café for a birthday brunch. The music and decor set the perfect mood. The seasonal menu never disappoints. Reasonably priced for the quality. Already planning my next visit.,5,positive
+122,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. The pastries were incredible. Five stars without hesitation.,5,positive
+123,1,Grabbed a quick coffee at Harbor House Café this morning. The portions were way too small for the price. We waited 25 minutes just to get water. Tables were sticky and the floor hadn't been swept. Disappointing experience overall.,2,negative
+124,4,"Grabbed a quick coffee at Harbor House Café this morning. The coffee was rich and perfectly brewed. The staff seemed annoyed to be there, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+125,5,Regular customer at Harbor House Café here. The team clearly cares about the customers. Great spot to work or catch up with friends. Worth every penny. Highly recommend to anyone in the area.,5,positive
+126,5,"The place has such a cozy, welcoming vibe. The pastries were incredible. Worth every penny. This is now my go-to spot.",5,positive
+127,3,"Stopped by Harbor House Café for the first time. The menu is fine but a bit repetitive. The staff seemed annoyed to be there. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+128,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. The staff were warm and attentive. This is now my go-to spot.,5,positive
+129,5,Stopped by Harbor House Café for the first time. Best brunch i've had in months. Great spot to work or catch up with friends. Worth every penny. Will definitely be back!,5,positive
+130,5,The music and decor set the perfect mood. The staff were warm and attentive. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+131,5,"Regular customer at Harbor House Café here. The place has such a cozy, welcoming vibe. They went out of their way to accommodate my allergy. This is now my go-to spot.",5,positive
+132,5,Came to Harbor House Café for a birthday brunch. The team clearly cares about the customers. The seasonal menu never disappoints. Will definitely be back!,5,positive
+133,4,"Grabbed a quick coffee at Harbor House Café this morning. The pastries were incredible. Average service, no complaints, but overall a solid experience. Might give it another shot.",4,positive
+134,5,"Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. The place has such a cozy, welcoming vibe. Great value for what you get. This is now my go-to spot.",5,positive
+135,5,"Came to Harbor House Café for a birthday brunch. The place has such a cozy, welcoming vibe. Our server remembered our names by the second visit. Reasonably priced for the quality. Highly recommend to anyone in the area.",5,positive
+136,5,Came to Harbor House Café for a birthday brunch. The seasonal menu never disappoints. The team clearly cares about the customers. This is now my go-to spot.,5,positive
+137,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The team clearly cares about the customers. Five stars without hesitation.,5,positive
+138,5,"Tried Harbor House Café after seeing it recommended online. They went out of their way to accommodate my allergy. The place has such a cozy, welcoming vibe. Already planning my next visit.",2,negative
+139,5,Tried Harbor House Café after seeing it recommended online. Great spot to work or catch up with friends. They went out of their way to accommodate my allergy. Five stars without hesitation.,5,positive
+140,1,The coffee tasted burnt. We waited 25 minutes just to get water. The place felt cramped and chaotic. Not sure I'll be returning.,1,negative
+141,5,Regular customer at Harbor House Café here. The seasonal menu never disappoints. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+142,5,Stopped by Harbor House Café for the first time. The pastries were incredible. The music and decor set the perfect mood. Worth every penny. Five stars without hesitation.,5,positive
+143,5,"The place has such a cozy, welcoming vibe. Best brunch i've had in months. Worth every penny. Will definitely be back!",5,positive
+144,5,The music and decor set the perfect mood. Best brunch i've had in months. Five stars without hesitation.,5,positive
+145,5,Came to Harbor House Café for a birthday brunch. The team clearly cares about the customers. Best brunch i've had in months. Reasonably priced for the quality. Will definitely be back!,5,positive
+146,5,Visited Harbor House Café last weekend. The food was absolutely delicious. Service was fast and friendly. Great value for what you get. This is now my go-to spot.,5,positive
+147,4,"Stopped by Harbor House Café for the first time. The seasonal menu never disappoints. Service was fine, nothing memorable, but overall a solid experience. Might give it another shot.",3,neutral
+148,2,Tried Harbor House Café after seeing it recommended online. The food was bland and overpriced. Our server got our order wrong twice. Disappointing experience overall.,2,negative
+149,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. Best brunch i've had in months. Already planning my next visit.",5,positive
+150,5,The music and decor set the perfect mood. Service was fast and friendly. Highly recommend to anyone in the area.,5,positive
+151,5,Came to Harbor House Café for a birthday brunch. Loved the natural light and the plants everywhere. Our server remembered our names by the second visit. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+152,5,Stopped by Harbor House Café for the first time. The team clearly cares about the customers. The pastries were incredible. Great value for what you get. Will definitely be back!,5,positive
+153,5,Came to Harbor House Café for a birthday brunch. The seasonal menu never disappoints. Service was fast and friendly. Five stars without hesitation.,5,positive
+154,5,"Visited Harbor House Café last weekend. The place has such a cozy, welcoming vibe. The coffee was rich and perfectly brewed. Highly recommend to anyone in the area.",5,positive
+155,3,"Tried Harbor House Café after seeing it recommended online. The coffee was okay. Average service, no complaints. Might give it another shot.",3,neutral
+156,4,"Grabbed a quick coffee at Harbor House Café this morning. The coffee was rich and perfectly brewed. The staff seemed annoyed to be there, but overall a solid experience. It's fine for a quick stop.",4,positive
+157,5,Regular customer at Harbor House Café here. The staff were warm and attentive. Fresh ingredients you can really taste. Highly recommend to anyone in the area.,5,positive
+158,3,"Visited Harbor House Café last weekend. Average sandwiches, nothing to write home about. Average service, no complaints. It's fine for a quick stop.",3,neutral
+159,5,Tried Harbor House Café after seeing it recommended online. Our server remembered our names by the second visit. Loved the natural light and the plants everywhere. Already planning my next visit.,5,positive
+160,4,"Came to Harbor House Café for a birthday brunch. Fresh ingredients you can really taste. The staff seemed annoyed to be there, but overall a solid experience. It's fine for a quick stop.",4,positive
+161,3,Stopped by Harbor House Café for the first time. The menu is fine but a bit repetitive. The staff were polite but a bit slow. Might give it another shot.,3,neutral
+162,3,"Visited Harbor House Café last weekend. The menu is fine but a bit repetitive. Service was fine, nothing memorable. It's fine for a quick stop.",3,neutral
+163,5,Tried Harbor House Café after seeing it recommended online. The staff were warm and attentive. The coffee was rich and perfectly brewed. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+164,5,"Visited Harbor House Café last weekend. The coffee was rich and perfectly brewed. The place has such a cozy, welcoming vibe. Will definitely be back!",5,positive
+165,5,They went out of their way to accommodate my allergy. Best brunch i've had in months. Worth every penny. This is now my go-to spot.,5,positive
+166,4,"Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. The staff seemed annoyed to be there, but overall a solid experience. Five stars without hesitation.",5,positive
+167,4,"Stopped by Harbor House Café for the first time. The pastries were incredible. We waited 25 minutes just to get water, but overall a solid experience. Highly recommend to anyone in the area.",5,positive
+168,5,Came to Harbor House Café for a birthday brunch. Fresh ingredients you can really taste. Loved the natural light and the plants everywhere. Will definitely be back!,5,positive
+169,5,Visited Harbor House Café last weekend. The food was absolutely delicious. Service was fast and friendly. Worth every penny. Five stars without hesitation.,5,positive
+170,3,"Grabbed a quick coffee at Harbor House Café this morning. The food was decent, nothing special. The staff were polite but a bit slow. It's fine for a quick stop.",3,neutral
+171,5,"Regular customer at Harbor House Café here. Service was fast and friendly. The place has such a cozy, welcoming vibe. Great value for what you get. Highly recommend to anyone in the area.",5,positive
+172,5,Visited Harbor House Café last weekend. The sourdough bread alone is worth the visit. Loved the natural light and the plants everywhere. Five stars without hesitation.,5,positive
+173,5,Grabbed a quick coffee at Harbor House Café this morning. They went out of their way to accommodate my allergy. Fresh ingredients you can really taste. Five stars without hesitation.,5,positive
+174,5,Came to Harbor House Café for a birthday brunch. The staff were warm and attentive. The food was absolutely delicious. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+175,3,"Visited Harbor House Café last weekend. The food was decent, nothing special. Our server got our order wrong twice. Might give it another shot.",3,neutral
+176,5,Loved the natural light and the plants everywhere. The staff were warm and attentive. Already planning my next visit.,5,positive
+177,2,Grabbed a quick coffee at Harbor House Café this morning. The food was bland and overpriced. Our server got our order wrong twice. Probably won't recommend it to friends.,1,negative
+178,5,Grabbed a quick coffee at Harbor House Café this morning. Fresh ingredients you can really taste. The music and decor set the perfect mood. Will definitely be back!,5,positive
+179,5,Great spot to work or catch up with friends. The coffee was rich and perfectly brewed. Great value for what you get. Five stars without hesitation.,5,positive
+180,5,Stopped by Harbor House Café for the first time. Great spot to work or catch up with friends. The seasonal menu never disappoints. Worth every penny. Five stars without hesitation.,5,positive
+181,5,Came to Harbor House Café for a birthday brunch. The team clearly cares about the customers. The pastries were incredible. Great value for what you get. This is now my go-to spot.,5,positive
+182,5,Stopped by Harbor House Café for the first time. Our server remembered our names by the second visit. Fresh ingredients you can really taste. Will definitely be back!,5,positive
+183,5,Came to Harbor House Café for a birthday brunch. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Worth every penny. This is now my go-to spot.,5,positive
+184,5,Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. Great spot to work or catch up with friends. Already planning my next visit.,5,positive
+185,5,Stopped by Harbor House Café for the first time. Our server remembered our names by the second visit. The pastries were incredible. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+186,5,Came to Harbor House Café for a birthday brunch. The staff were warm and attentive. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+187,5,"Grabbed a quick coffee at Harbor House Café this morning. The pastries were incredible. Our server got our order wrong twice, but honestly the food made up for it. This is now my go-to spot.",5,positive
+188,5,Came to Harbor House Café for a birthday brunch. The music and decor set the perfect mood. The staff were warm and attentive. This is now my go-to spot.,5,positive
+189,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. Every dish was bursting with flavor. Highly recommend to anyone in the area.,5,positive
+190,1,Stopped by Harbor House Café for the first time. The portions were way too small for the price. Nobody checked on us the entire meal. Disappointing experience overall.,2,negative
+191,2,The pastry was stale. Our server got our order wrong twice. Not sure I'll be returning.,2,negative
+192,2,"Regular customer at Harbor House Café here. The food was decent, nothing special. Service was fine, nothing memorable. Just didn't love it enough to come back.",3,neutral
+193,4,"Regular customer at Harbor House Café here. The pastries were incredible. Average service, no complaints, but overall a solid experience. Five stars without hesitation.",5,positive
+194,5,"Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. The place has such a cozy, welcoming vibe. Five stars without hesitation.",5,positive
+195,2,Grabbed a quick coffee at Harbor House Café this morning. The food was bland and overpriced. Our server got our order wrong twice. Probably won't recommend it to friends.,1,negative
+196,5,Regular customer at Harbor House Café here. The team clearly cares about the customers. The music and decor set the perfect mood. Great value for what you get. Five stars without hesitation.,5,positive
+197,5,Service was fast and friendly. The music and decor set the perfect mood. Will definitely be back!,5,positive
+198,5,"Grabbed a quick coffee at Harbor House Café this morning. The place has such a cozy, welcoming vibe. Fresh ingredients you can really taste. Already planning my next visit.",5,positive
+199,2,Visited Harbor House Café last weekend. The portions were way too small for the price. The staff seemed annoyed to be there. Expected a lot more given the reviews.,2,negative
+200,5,Stopped by Harbor House Café for the first time. The music and decor set the perfect mood. Every dish was bursting with flavor. Already planning my next visit.,2,negative
+201,5,Regular customer at Harbor House Café here. The staff were warm and attentive. The food was absolutely delicious. This is now my go-to spot.,5,positive
+202,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. They went out of their way to accommodate my allergy. Five stars without hesitation.,5,positive
+203,5,Came to Harbor House Café for a birthday brunch. Best brunch i've had in months. They went out of their way to accommodate my allergy. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+204,5,"Came to Harbor House Café for a birthday brunch. Every dish was bursting with flavor. The cashier was rude when i asked about the menu, but honestly the food made up for it. Already planning my next visit.",1,negative
+205,5,Visited Harbor House Café last weekend. The staff were warm and attentive. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+206,2,Came to Harbor House Café for a birthday brunch. My eggs came out cold. The cashier was rude when i asked about the menu. Expected a lot more given the reviews.,2,negative
+207,5,Tried Harbor House Café after seeing it recommended online. Loved the natural light and the plants everywhere. The sourdough bread alone is worth the visit. Worth every penny. Already planning my next visit.,5,positive
+208,5,Visited Harbor House Café last weekend. The staff were warm and attentive. The seasonal menu never disappoints. Worth every penny. This is now my go-to spot.,5,positive
+209,5,Stopped by Harbor House Café for the first time. Great spot to work or catch up with friends. The staff were warm and attentive. Worth every penny. Already planning my next visit.,5,positive
+210,5,The coffee was rich and perfectly brewed. Service was fast and friendly. Worth every penny. Already planning my next visit.,5,positive
+211,5,Regular customer at Harbor House Café here. They went out of their way to accommodate my allergy. The pastries were incredible. This is now my go-to spot.,5,positive
+212,5,"Regular customer at Harbor House Café here. The place has such a cozy, welcoming vibe. The team clearly cares about the customers. This is now my go-to spot.",5,positive
+213,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The staff were warm and attentive. Great value for what you get. Already planning my next visit.,5,positive
+214,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. Best brunch i've had in months. Worth every penny. This is now my go-to spot.,5,positive
+215,3,"Came to Harbor House Café for a birthday brunch. Average sandwiches, nothing to write home about. Nobody checked on us the entire meal. Wouldn't go out of my way, but wouldn't avoid it either.",2,negative
+216,5,Stopped by Harbor House Café for the first time. The team clearly cares about the customers. The sourdough bread alone is worth the visit. This is now my go-to spot.,5,positive
+217,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. The music and decor set the perfect mood. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+218,2,Regular customer at Harbor House Café here. The pastry was stale. We waited 25 minutes just to get water. Disappointing experience overall.,2,negative
+219,5,"Visited Harbor House Café last weekend. The staff were warm and attentive. The place has such a cozy, welcoming vibe. Great value for what you get. Will definitely be back!",5,positive
+220,5,Visited Harbor House Café last weekend. They went out of their way to accommodate my allergy. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+221,5,Came to Harbor House Café for a birthday brunch. Loved the natural light and the plants everywhere. The pastries were incredible. Worth every penny. Highly recommend to anyone in the area.,5,positive
+222,4,"The food was absolutely delicious. Average service, no complaints, but overall a solid experience. It's fine for a quick stop.",4,positive
+223,1,Came to Harbor House Café for a birthday brunch. The pastry was stale. The cashier was rude when i asked about the menu. Tables were sticky and the floor hadn't been swept. Probably won't recommend it to friends.,2,negative
+224,4,"Best brunch i've had in months. The staff were polite but a bit slow, but overall a solid experience. Might give it another shot.",4,positive
+225,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. The staff were warm and attentive. This is now my go-to spot.",5,positive
+226,5,"The place has such a cozy, welcoming vibe. Our server remembered our names by the second visit. Reasonably priced for the quality. Five stars without hesitation.",5,positive
+227,5,The music and decor set the perfect mood. The staff were warm and attentive. Already planning my next visit.,5,positive
+228,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. The music and decor set the perfect mood. Already planning my next visit.,5,positive
+229,5,Grabbed a quick coffee at Harbor House Café this morning. They went out of their way to accommodate my allergy. Loved the natural light and the plants everywhere. Five stars without hesitation.,5,positive
+230,2,Grabbed a quick coffee at Harbor House Café this morning. The menu is fine but a bit repetitive. The staff were polite but a bit slow. Just didn't love it enough to come back.,3,neutral
+231,5,They went out of their way to accommodate my allergy. The seasonal menu never disappoints. Great value for what you get. This is now my go-to spot.,5,positive
+232,5,Regular customer at Harbor House Café here. Every dish was bursting with flavor. The team clearly cares about the customers. Great value for what you get. Will definitely be back!,5,positive
+233,3,Stopped by Harbor House Café for the first time. The coffee was okay. The staff were polite but a bit slow. Might give it another shot.,3,neutral
+234,5,Visited Harbor House Café last weekend. The coffee was rich and perfectly brewed. The music and decor set the perfect mood. Worth every penny. Will definitely be back!,5,positive
+235,4,"Came to Harbor House Café for a birthday brunch. The pastries were incredible. The staff were polite but a bit slow, but overall a solid experience. Will definitely be back!",4,positive
+236,5,Came to Harbor House Café for a birthday brunch. Our server remembered our names by the second visit. Great spot to work or catch up with friends. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+237,5,Visited Harbor House Café last weekend. The coffee was rich and perfectly brewed. The music and decor set the perfect mood. Worth every penny. Five stars without hesitation.,5,positive
+238,5,Service was fast and friendly. The pastries were incredible. Reasonably priced for the quality. Will definitely be back!,5,positive
+239,3,Came to Harbor House Café for a birthday brunch. The menu is fine but a bit repetitive. The staff were polite but a bit slow. It's fine for a quick stop.,3,neutral
+240,5,Tried Harbor House Café after seeing it recommended online. Great spot to work or catch up with friends. Best brunch i've had in months. Worth every penny. This is now my go-to spot.,5,positive
+241,5,Visited Harbor House Café last weekend. Service was fast and friendly. The music and decor set the perfect mood. Already planning my next visit.,5,positive
+242,4,"Stopped by Harbor House Café for the first time. Best brunch i've had in months. The staff seemed annoyed to be there, but overall a solid experience. Already planning my next visit.",5,positive
+243,2,Stopped by Harbor House Café for the first time. The pastry was stale. Nobody checked on us the entire meal. Not sure I'll be returning.,1,negative
+244,5,The staff were warm and attentive. The sourdough bread alone is worth the visit. Great value for what you get. Already planning my next visit.,5,positive
+245,5,Stopped by Harbor House Café for the first time. The seasonal menu never disappoints. Our server remembered our names by the second visit. This is now my go-to spot.,5,positive
+246,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. The seasonal menu never disappoints. Highly recommend to anyone in the area.,5,positive
+247,4,"Came to Harbor House Café for a birthday brunch. Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. Highly recommend to anyone in the area.",4,positive
+248,5,Stopped by Harbor House Café for the first time. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+249,5,Came to Harbor House Café for a birthday brunch. Best brunch i've had in months. Our server remembered our names by the second visit. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+250,5,"Regular customer at Harbor House Café here. Fresh ingredients you can really taste. We waited 25 minutes just to get water, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+251,5,Tried Harbor House Café after seeing it recommended online. Loved the natural light and the plants everywhere. Our server remembered our names by the second visit. Worth every penny. Already planning my next visit.,5,positive
+252,5,Visited Harbor House Café last weekend. The pastries were incredible. The music and decor set the perfect mood. Five stars without hesitation.,5,positive
+253,4,"Stopped by Harbor House Café for the first time. Every dish was bursting with flavor. Average service, no complaints, but overall a solid experience. This is now my go-to spot.",3,neutral
+254,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. Great spot to work or catch up with friends. Will definitely be back!,1,negative
+255,4,"Grabbed a quick coffee at Harbor House Café this morning. The seasonal menu never disappoints. Average service, no complaints, but overall a solid experience. Will definitely be back!",4,positive
+256,5,Tried Harbor House Café after seeing it recommended online. The pastries were incredible. Great spot to work or catch up with friends. Worth every penny. This is now my go-to spot.,5,positive
+257,5,"Came to Harbor House Café for a birthday brunch. Our server remembered our names by the second visit. The place has such a cozy, welcoming vibe. Already planning my next visit.",5,positive
+258,5,Grabbed a quick coffee at Harbor House Café this morning. The pastries were incredible. The staff were warm and attentive. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+259,5,"Came to Harbor House Café for a birthday brunch. The sourdough bread alone is worth the visit. The cashier was rude when i asked about the menu, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+260,5,Regular customer at Harbor House Café here. The team clearly cares about the customers. The music and decor set the perfect mood. Five stars without hesitation.,5,positive
+261,5,"The coffee was rich and perfectly brewed. Our server got our order wrong twice, but honestly the food made up for it. Will definitely be back!",5,positive
+262,5,The coffee was rich and perfectly brewed. Great spot to work or catch up with friends. Five stars without hesitation.,5,positive
+263,5,Grabbed a quick coffee at Harbor House Café this morning. The team clearly cares about the customers. The music and decor set the perfect mood. Great value for what you get. Will definitely be back!,5,positive
+264,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. The pastries were incredible. Highly recommend to anyone in the area.,5,positive
+265,5,Best brunch i've had in months. The team clearly cares about the customers. Five stars without hesitation.,5,positive
+266,5,"Grabbed a quick coffee at Harbor House Café this morning. The place has such a cozy, welcoming vibe. Our server remembered our names by the second visit. Reasonably priced for the quality. Already planning my next visit.",5,positive
+267,5,Regular customer at Harbor House Café here. The team clearly cares about the customers. Every dish was bursting with flavor. Worth every penny. Will definitely be back!,5,positive
+268,5,Stopped by Harbor House Café for the first time. The food was absolutely delicious. The team clearly cares about the customers. Five stars without hesitation.,5,positive
+269,4,"Tried Harbor House Café after seeing it recommended online. Best brunch i've had in months. Service was fine, nothing memorable, but overall a solid experience. Highly recommend to anyone in the area.",4,positive
+270,5,Stopped by Harbor House Café for the first time. Our server remembered our names by the second visit. Every dish was bursting with flavor. Great value for what you get. Will definitely be back!,1,negative
+271,5,Regular customer at Harbor House Café here. Service was fast and friendly. Great spot to work or catch up with friends. Will definitely be back!,5,positive
+272,5,Regular customer at Harbor House Café here. The sourdough bread alone is worth the visit. Service was fast and friendly. Will definitely be back!,4,positive
+273,4,Best brunch i've had in months. Our server remembered our names by the second visit. Five stars without hesitation.,5,positive
+274,5,"Stopped by Harbor House Café for the first time. Every dish was bursting with flavor. The place has such a cozy, welcoming vibe. Five stars without hesitation.",5,positive
+275,5,"Visited Harbor House Café last weekend. The place has such a cozy, welcoming vibe. The team clearly cares about the customers. Will definitely be back!",5,positive
+276,5,Regular customer at Harbor House Café here. Our server remembered our names by the second visit. Loved the natural light and the plants everywhere. Highly recommend to anyone in the area.,5,positive
+277,4,"Regular customer at Harbor House Café here. The sourdough bread alone is worth the visit. Service was fine, nothing memorable, but overall a solid experience. Will definitely be back!",4,positive
+278,3,"Came to Harbor House Café for a birthday brunch. Average sandwiches, nothing to write home about. Service was fine, nothing memorable. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+279,5,Visited Harbor House Café last weekend. Great spot to work or catch up with friends. The team clearly cares about the customers. Highly recommend to anyone in the area.,5,positive
+280,5,Stopped by Harbor House Café for the first time. Our server remembered our names by the second visit. Great spot to work or catch up with friends. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+281,5,Came to Harbor House Café for a birthday brunch. The food was absolutely delicious. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+282,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. The food was absolutely delicious. Five stars without hesitation.,5,positive
+283,4,"Stopped by Harbor House Café for the first time. The pastries were incredible. The staff were polite but a bit slow, but overall a solid experience. This is now my go-to spot.",4,positive
+284,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. The food was absolutely delicious. Worth every penny. Already planning my next visit.,5,positive
+285,5,Came to Harbor House Café for a birthday brunch. Service was fast and friendly. The pastries were incredible. Highly recommend to anyone in the area.,5,positive
+286,4,"Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Service was fine, nothing memorable, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+287,5,Grabbed a quick coffee at Harbor House Café this morning. Best brunch i've had in months. The music and decor set the perfect mood. Five stars without hesitation.,5,positive
+288,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. The sourdough bread alone is worth the visit. This is now my go-to spot.,5,positive
+289,5,Every dish was bursting with flavor. Our server remembered our names by the second visit. Worth every penny. Five stars without hesitation.,5,positive
+290,5,Grabbed a quick coffee at Harbor House Café this morning. Best brunch i've had in months. They went out of their way to accommodate my allergy. Five stars without hesitation.,5,positive
+291,5,"Visited Harbor House Café last weekend. Fresh ingredients you can really taste. Our server got our order wrong twice, but honestly the food made up for it. Already planning my next visit.",4,positive
+292,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. Our server remembered our names by the second visit. Already planning my next visit.,5,positive
+293,5,Came to Harbor House Café for a birthday brunch. The sourdough bread alone is worth the visit. Our server remembered our names by the second visit. Worth every penny. Already planning my next visit.,5,positive
+294,5,Tried Harbor House Café after seeing it recommended online. They went out of their way to accommodate my allergy. Fresh ingredients you can really taste. Worth every penny. Already planning my next visit.,5,positive
+295,5,"The place has such a cozy, welcoming vibe. Our server remembered our names by the second visit. This is now my go-to spot.",5,positive
+296,5,"The place has such a cozy, welcoming vibe. Service was fast and friendly. This is now my go-to spot.",5,positive
+297,5,Fresh ingredients you can really taste. Loved the natural light and the plants everywhere. Highly recommend to anyone in the area.,5,positive
+298,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+299,5,"Grabbed a quick coffee at Harbor House Café this morning. The place has such a cozy, welcoming vibe. The staff were warm and attentive. This is now my go-to spot.",5,positive
+300,5,Came to Harbor House Café for a birthday brunch. The music and decor set the perfect mood. The staff were warm and attentive. Worth every penny. This is now my go-to spot.,5,positive
+301,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. Our server remembered our names by the second visit. Great value for what you get. Five stars without hesitation.,5,positive
+302,5,Tried Harbor House Café after seeing it recommended online. Best brunch i've had in months. Loved the natural light and the plants everywhere. Already planning my next visit.,5,positive
+303,5,Stopped by Harbor House Café for the first time. The pastries were incredible. Our server remembered our names by the second visit. Worth every penny. Already planning my next visit.,5,positive
+304,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Loved the natural light and the plants everywhere. This is now my go-to spot.,5,positive
+305,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. They went out of their way to accommodate my allergy. Will definitely be back!,5,positive
+306,5,The team clearly cares about the customers. The coffee was rich and perfectly brewed. Will definitely be back!,5,positive
+307,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. The sourdough bread alone is worth the visit. Great value for what you get. Five stars without hesitation.",5,positive
+308,5,Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. The music and decor set the perfect mood. Worth every penny. Will definitely be back!,5,positive
+309,5,Came to Harbor House Café for a birthday brunch. The music and decor set the perfect mood. The team clearly cares about the customers. Worth every penny. Will definitely be back!,5,positive
+310,4,"Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The staff were polite but a bit slow, but overall a solid experience. It's fine for a quick stop.",4,positive
+311,3,"Tried Harbor House Café after seeing it recommended online. The food was decent, nothing special. Nobody checked on us the entire meal. Might give it another shot.",2,negative
+312,5,The music and decor set the perfect mood. The food was absolutely delicious. Worth every penny. Highly recommend to anyone in the area.,5,positive
+313,3,"Tried Harbor House Café after seeing it recommended online. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. It's fine for a quick stop.",3,neutral
+314,1,Regular customer at Harbor House Café here. My eggs came out cold. Nobody checked on us the entire meal. Not sure I'll be returning.,1,negative
+315,5,Tried Harbor House Café after seeing it recommended online. The staff were warm and attentive. The coffee was rich and perfectly brewed. Will definitely be back!,5,positive
+316,4,"Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. Five stars without hesitation.",5,positive
+317,5,"Best brunch i've had in months. Nobody checked on us the entire meal, but honestly the food made up for it. This is now my go-to spot.",5,positive
+318,5,The staff were warm and attentive. The coffee was rich and perfectly brewed. This is now my go-to spot.,5,positive
+319,5,Visited Harbor House Café last weekend. Our server remembered our names by the second visit. Great spot to work or catch up with friends. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+320,4,"Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. The staff seemed annoyed to be there, but overall a solid experience. It's fine for a quick stop.",4,positive
+321,5,"Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. We waited 25 minutes just to get water, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+322,5,"Every dish was bursting with flavor. The staff seemed annoyed to be there, but honestly the food made up for it. Will definitely be back!",1,negative
+323,3,"Grabbed a quick coffee at Harbor House Café this morning. The food was decent, nothing special. Nobody checked on us the entire meal. It's fine for a quick stop.",3,neutral
+324,4,"Came to Harbor House Café for a birthday brunch. The food was absolutely delicious. We waited 25 minutes just to get water, but overall a solid experience. It's fine for a quick stop.",4,positive
+325,5,Came to Harbor House Café for a birthday brunch. Loved the natural light and the plants everywhere. The team clearly cares about the customers. Already planning my next visit.,5,positive
+326,3,"Came to Harbor House Café for a birthday brunch. The menu is fine but a bit repetitive. Average service, no complaints. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+327,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Great spot to work or catch up with friends. Reasonably priced for the quality. Will definitely be back!,5,positive
+328,4,"Regular customer at Harbor House Café here. Fresh ingredients you can really taste. We waited 25 minutes just to get water, but overall a solid experience. Will definitely be back!",4,positive
+329,5,"The place has such a cozy, welcoming vibe. The coffee was rich and perfectly brewed. Already planning my next visit.",5,positive
+330,4,"Tried Harbor House Café after seeing it recommended online. The seasonal menu never disappoints. Service was fine, nothing memorable, but overall a solid experience. It's fine for a quick stop.",4,positive
+331,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. The food was absolutely delicious. Worth every penny. Five stars without hesitation.,5,positive
+332,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. The coffee was rich and perfectly brewed. Already planning my next visit.,1,negative
+333,4,"Came to Harbor House Café for a birthday brunch. Best brunch i've had in months. Average service, no complaints, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+334,5,Regular customer at Harbor House Café here. The coffee was rich and perfectly brewed. Our server remembered our names by the second visit. Highly recommend to anyone in the area.,5,positive
+335,5,"Tried Harbor House Café after seeing it recommended online. The place has such a cozy, welcoming vibe. The staff were warm and attentive. Worth every penny. Will definitely be back!",5,positive
+336,4,Regular customer at Harbor House Café here. Best brunch i've had in months. The staff were warm and attentive. Already planning my next visit.,5,positive
+337,5,Regular customer at Harbor House Café here. Our server remembered our names by the second visit. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+338,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. Every dish was bursting with flavor. This is now my go-to spot.,5,positive
+339,2,Regular customer at Harbor House Café here. The coffee tasted burnt. Nobody checked on us the entire meal. Disappointing experience overall.,2,negative
+340,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The team clearly cares about the customers. Will definitely be back!,5,positive
+341,5,Visited Harbor House Café last weekend. Great spot to work or catch up with friends. The pastries were incredible. Reasonably priced for the quality. Already planning my next visit.,5,positive
+342,1,Regular customer at Harbor House Café here. The coffee tasted burnt. Nobody checked on us the entire meal. The place felt cramped and chaotic. Expected a lot more given the reviews.,2,negative
+343,5,Tried Harbor House Café after seeing it recommended online. Our server remembered our names by the second visit. The sourdough bread alone is worth the visit. Worth every penny. Highly recommend to anyone in the area.,5,positive
+344,3,Came to Harbor House Café for a birthday brunch. The menu is fine but a bit repetitive. Our server got our order wrong twice. Might give it another shot.,3,neutral
+345,3,"Tried Harbor House Café after seeing it recommended online. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. It's fine for a quick stop.",3,neutral
+346,5,Regular customer at Harbor House Café here. The team clearly cares about the customers. Great spot to work or catch up with friends. Great value for what you get. This is now my go-to spot.,5,positive
+347,5,Visited Harbor House Café last weekend. Service was fast and friendly. Best brunch i've had in months. Already planning my next visit.,5,positive
+348,5,Visited Harbor House Café last weekend. The pastries were incredible. The music and decor set the perfect mood. Great value for what you get. Five stars without hesitation.,5,positive
+349,5,Grabbed a quick coffee at Harbor House Café this morning. The team clearly cares about the customers. Loved the natural light and the plants everywhere. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+350,4,"Grabbed a quick coffee at Harbor House Café this morning. Best brunch i've had in months. The staff seemed annoyed to be there, but overall a solid experience. Highly recommend to anyone in the area.",5,positive
+351,5,"Stopped by Harbor House Café for the first time. Service was fast and friendly. The place has such a cozy, welcoming vibe. Will definitely be back!",5,positive
+352,5,They went out of their way to accommodate my allergy. The seasonal menu never disappoints. Great value for what you get. Five stars without hesitation.,5,positive
+353,5,Visited Harbor House Café last weekend. Our server remembered our names by the second visit. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+354,5,Stopped by Harbor House Café for the first time. Loved the natural light and the plants everywhere. The staff were warm and attentive. Worth every penny. This is now my go-to spot.,5,positive
+355,4,"Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. This is now my go-to spot.",4,positive
+356,5,"Visited Harbor House Café last weekend. The place has such a cozy, welcoming vibe. They went out of their way to accommodate my allergy. Will definitely be back!",5,positive
+357,5,Visited Harbor House Café last weekend. The sourdough bread alone is worth the visit. The music and decor set the perfect mood. Highly recommend to anyone in the area.,5,positive
+358,5,Came to Harbor House Café for a birthday brunch. The music and decor set the perfect mood. The staff were warm and attentive. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+359,3,"Tried Harbor House Café after seeing it recommended online. The food was decent, nothing special. Service was fine, nothing memorable. Might give it another shot.",3,neutral
+360,5,Visited Harbor House Café last weekend. The food was absolutely delicious. Loved the natural light and the plants everywhere. Will definitely be back!,5,positive
+361,4,"Stopped by Harbor House Café for the first time. The seasonal menu never disappoints. Average service, no complaints, but overall a solid experience. This is now my go-to spot.",4,positive
+362,3,"Stopped by Harbor House Café for the first time. The coffee was okay. Average service, no complaints. It's fine for a quick stop.",3,neutral
+363,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. Our server remembered our names by the second visit. Five stars without hesitation.,5,positive
+364,5,Regular customer at Harbor House Café here. Service was fast and friendly. The music and decor set the perfect mood. Five stars without hesitation.,5,positive
+365,4,"Stopped by Harbor House Café for the first time. The pastries were incredible. The staff seemed annoyed to be there, but overall a solid experience. Five stars without hesitation.",5,positive
+366,5,Regular customer at Harbor House Café here. The coffee was rich and perfectly brewed. The team clearly cares about the customers. Great value for what you get. Already planning my next visit.,5,positive
+367,5,Regular customer at Harbor House Café here. The staff were warm and attentive. The pastries were incredible. Worth every penny. Five stars without hesitation.,5,positive
+368,5,The music and decor set the perfect mood. The food was absolutely delicious. Great value for what you get. Already planning my next visit.,5,positive
+369,4,"The food was absolutely delicious. The staff seemed annoyed to be there, but overall a solid experience. Highly recommend to anyone in the area.",5,positive
+370,4,"Stopped by Harbor House Café for the first time. The sourdough bread alone is worth the visit. We waited 25 minutes just to get water, but overall a solid experience. Five stars without hesitation.",5,positive
+371,5,Great spot to work or catch up with friends. Service was fast and friendly. Reasonably priced for the quality. Will definitely be back!,5,positive
+372,5,Tried Harbor House Café after seeing it recommended online. The food was absolutely delicious. Service was fast and friendly. Highly recommend to anyone in the area.,5,positive
+373,5,Great spot to work or catch up with friends. The team clearly cares about the customers. Already planning my next visit.,5,positive
+374,5,The seasonal menu never disappoints. They went out of their way to accommodate my allergy. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+375,5,"Grabbed a quick coffee at Harbor House Café this morning. Service was fast and friendly. The place has such a cozy, welcoming vibe. Reasonably priced for the quality. Already planning my next visit.",5,positive
+376,5,"Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. We waited 25 minutes just to get water, but honestly the food made up for it. This is now my go-to spot.",4,positive
+377,3,"The menu is fine but a bit repetitive. Service was fine, nothing memorable. Might give it another shot.",3,neutral
+378,5,Visited Harbor House Café last weekend. Loved the natural light and the plants everywhere. The sourdough bread alone is worth the visit. Worth every penny. This is now my go-to spot.,5,positive
+379,5,Our server remembered our names by the second visit. The sourdough bread alone is worth the visit. This is now my go-to spot.,5,positive
+380,5,Grabbed a quick coffee at Harbor House Café this morning. The coffee was rich and perfectly brewed. The team clearly cares about the customers. Already planning my next visit.,5,positive
+381,5,Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Loved the natural light and the plants everywhere. Already planning my next visit.,5,positive
+382,5,Tried Harbor House Café after seeing it recommended online. Great spot to work or catch up with friends. They went out of their way to accommodate my allergy. Worth every penny. This is now my go-to spot.,5,positive
+383,5,Service was fast and friendly. The pastries were incredible. Already planning my next visit.,5,positive
+384,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. Our server remembered our names by the second visit. Worth every penny. Already planning my next visit.",5,positive
+385,4,"Regular customer at Harbor House Café here. The sourdough bread alone is worth the visit. We waited 25 minutes just to get water, but overall a solid experience. Will definitely be back!",4,positive
+386,5,Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Service was fast and friendly. Reasonably priced for the quality. Will definitely be back!,5,positive
+387,4,"Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The staff seemed annoyed to be there, but overall a solid experience. It's fine for a quick stop.",4,positive
+388,5,Came to Harbor House Café for a birthday brunch. Loved the natural light and the plants everywhere. Every dish was bursting with flavor. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+389,5,Came to Harbor House Café for a birthday brunch. The pastries were incredible. Great spot to work or catch up with friends. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+390,5,Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Great spot to work or catch up with friends. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+391,4,"Grabbed a quick coffee at Harbor House Café this morning. The food was absolutely delicious. Average service, no complaints, but overall a solid experience. Will definitely be back!",4,positive
+392,5,Stopped by Harbor House Café for the first time. Great spot to work or catch up with friends. Fresh ingredients you can really taste. Highly recommend to anyone in the area.,5,positive
+393,5,Regular customer at Harbor House Café here. The pastries were incredible. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+394,5,Visited Harbor House Café last weekend. Service was fast and friendly. The pastries were incredible. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+395,4,"The food was absolutely delicious. We waited 25 minutes just to get water, but overall a solid experience. Might give it another shot.",4,positive
+396,4,"Tried Harbor House Café after seeing it recommended online. The coffee was rich and perfectly brewed. Service was fine, nothing memorable, but overall a solid experience. This is now my go-to spot.",4,positive
+397,4,"Grabbed a quick coffee at Harbor House Café this morning. The sourdough bread alone is worth the visit. The staff seemed annoyed to be there, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+398,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. The seasonal menu never disappoints. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+399,5,"Regular customer at Harbor House Café here. The pastries were incredible. We waited 25 minutes just to get water, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+400,5,"Grabbed a quick coffee at Harbor House Café this morning. The sourdough bread alone is worth the visit. The staff seemed annoyed to be there, but honestly the food made up for it. Five stars without hesitation.",5,positive
+401,5,"Stopped by Harbor House Café for the first time. Best brunch i've had in months. Nobody checked on us the entire meal, but honestly the food made up for it. Will definitely be back!",5,positive
+402,5,Regular customer at Harbor House Café here. The pastries were incredible. Service was fast and friendly. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+403,5,Visited Harbor House Café last weekend. Our server remembered our names by the second visit. Loved the natural light and the plants everywhere. Will definitely be back!,5,positive
+404,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. The sourdough bread alone is worth the visit. Five stars without hesitation.,5,positive
+405,4,"Tried Harbor House Café after seeing it recommended online. The food was absolutely delicious. The staff were polite but a bit slow, but overall a solid experience. Already planning my next visit.",4,positive
+406,4,"Visited Harbor House Café last weekend. The seasonal menu never disappoints. The staff were polite but a bit slow, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+407,3,"The food was decent, nothing special. Average service, no complaints. Might give it another shot.",3,neutral
+408,5,Came to Harbor House Café for a birthday brunch. Every dish was bursting with flavor. The team clearly cares about the customers. Five stars without hesitation.,5,positive
+409,5,Tried Harbor House Café after seeing it recommended online. Every dish was bursting with flavor. Service was fast and friendly. Already planning my next visit.,1,negative
+410,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. Our server remembered our names by the second visit. Highly recommend to anyone in the area.,5,positive
+411,5,"Stopped by Harbor House Café for the first time. Best brunch i've had in months. The place has such a cozy, welcoming vibe. Great value for what you get. Five stars without hesitation.",5,positive
+412,4,"Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. We waited 25 minutes just to get water, but overall a solid experience. It's fine for a quick stop.",4,positive
+413,5,Regular customer at Harbor House Café here. The music and decor set the perfect mood. Our server remembered our names by the second visit. Great value for what you get. Five stars without hesitation.,5,positive
+414,5,Came to Harbor House Café for a birthday brunch. Service was fast and friendly. The music and decor set the perfect mood. This is now my go-to spot.,5,positive
+415,5,Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+416,3,The coffee was okay. The staff were polite but a bit slow. It's fine for a quick stop.,3,neutral
+417,5,Came to Harbor House Café for a birthday brunch. They went out of their way to accommodate my allergy. The music and decor set the perfect mood. Already planning my next visit.,5,positive
+418,5,Great spot to work or catch up with friends. Fresh ingredients you can really taste. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+419,5,Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. The music and decor set the perfect mood. Worth every penny. Will definitely be back!,5,positive
+420,5,"Came to Harbor House Café for a birthday brunch. Fresh ingredients you can really taste. Our server got our order wrong twice, but honestly the food made up for it. Already planning my next visit.",4,positive
+421,3,"Grabbed a quick coffee at Harbor House Café this morning. Average sandwiches, nothing to write home about. Average service, no complaints. Might give it another shot.",3,neutral
+422,5,Stopped by Harbor House Café for the first time. The music and decor set the perfect mood. The pastries were incredible. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+423,5,Visited Harbor House Café last weekend. Fresh ingredients you can really taste. They went out of their way to accommodate my allergy. Will definitely be back!,5,positive
+424,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. Our server remembered our names by the second visit. This is now my go-to spot.,5,positive
+425,5,Visited Harbor House Café last weekend. Loved the natural light and the plants everywhere. Service was fast and friendly. Reasonably priced for the quality. Already planning my next visit.,5,positive
+426,5,Grabbed a quick coffee at Harbor House Café this morning. The staff were warm and attentive. Great spot to work or catch up with friends. Five stars without hesitation.,5,positive
+427,5,"Stopped by Harbor House Café for the first time. The food was absolutely delicious. The place has such a cozy, welcoming vibe. Reasonably priced for the quality. Five stars without hesitation.",5,positive
+428,1,Regular customer at Harbor House Café here. The coffee tasted burnt. The staff seemed annoyed to be there. It was way too loud to hold a conversation. Disappointing experience overall.,2,negative
+429,5,Regular customer at Harbor House Café here. Loved the natural light and the plants everywhere. The food was absolutely delicious. This is now my go-to spot.,5,positive
+430,5,"Visited Harbor House Café last weekend. The pastries were incredible. The place has such a cozy, welcoming vibe. This is now my go-to spot.",5,positive
+431,5,Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. The team clearly cares about the customers. Worth every penny. Will definitely be back!,5,positive
+432,5,"Regular customer at Harbor House Café here. The sourdough bread alone is worth the visit. The place has such a cozy, welcoming vibe. Already planning my next visit.",4,positive
+433,5,Visited Harbor House Café last weekend. Great spot to work or catch up with friends. The food was absolutely delicious. Reasonably priced for the quality. This is now my go-to spot.,5,positive
+434,4,"Grabbed a quick coffee at Harbor House Café this morning. The food was absolutely delicious. The staff were polite but a bit slow, but overall a solid experience. Will definitely be back!",4,positive
+435,4,"Regular customer at Harbor House Café here. Best brunch i've had in months. Service was fine, nothing memorable, but overall a solid experience. Five stars without hesitation.",5,positive
+436,5,Best brunch i've had in months. The music and decor set the perfect mood. This is now my go-to spot.,5,positive
+437,5,Grabbed a quick coffee at Harbor House Café this morning. Every dish was bursting with flavor. Great spot to work or catch up with friends. Worth every penny. Highly recommend to anyone in the area.,5,positive
+438,5,The staff were warm and attentive. Best brunch i've had in months. Highly recommend to anyone in the area.,5,positive
+439,5,Regular customer at Harbor House Café here. Great spot to work or catch up with friends. The staff were warm and attentive. Five stars without hesitation.,5,positive
+440,5,Regular customer at Harbor House Café here. Every dish was bursting with flavor. Our server remembered our names by the second visit. Reasonably priced for the quality. Already planning my next visit.,2,negative
+441,5,Grabbed a quick coffee at Harbor House Café this morning. Loved the natural light and the plants everywhere. The team clearly cares about the customers. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+442,1,Visited Harbor House Café last weekend. The coffee tasted burnt. The cashier was rude when i asked about the menu. The place felt cramped and chaotic. Not sure I'll be returning.,2,negative
+443,5,Visited Harbor House Café last weekend. The music and decor set the perfect mood. The staff were warm and attentive. Great value for what you get. Will definitely be back!,5,positive
+444,4,"Regular customer at Harbor House Café here. The food was absolutely delicious. Service was fine, nothing memorable, but overall a solid experience. Five stars without hesitation.",5,positive
+445,5,Best brunch i've had in months. Loved the natural light and the plants everywhere. Reasonably priced for the quality. Highly recommend to anyone in the area.,5,positive
+446,5,Came to Harbor House Café for a birthday brunch. The staff were warm and attentive. The music and decor set the perfect mood. Worth every penny. Five stars without hesitation.,5,positive
+447,4,"Visited Harbor House Café last weekend. The sourdough bread alone is worth the visit. The staff seemed annoyed to be there, but overall a solid experience. Wouldn't go out of my way, but wouldn't avoid it either.",4,positive
+448,4,"Grabbed a quick coffee at Harbor House Café this morning. The seasonal menu never disappoints. The staff seemed annoyed to be there, but overall a solid experience. Already planning my next visit.",4,positive
+449,5,"Tried Harbor House Café after seeing it recommended online. The place has such a cozy, welcoming vibe. Service was fast and friendly. This is now my go-to spot.",5,positive
+450,5,Tried Harbor House Café after seeing it recommended online. The sourdough bread alone is worth the visit. Great spot to work or catch up with friends. Will definitely be back!,5,positive
+451,3,"Regular customer at Harbor House Café here. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. Might give it another shot.",3,neutral
+452,5,Visited Harbor House Café last weekend. Service was fast and friendly. The coffee was rich and perfectly brewed. Will definitely be back!,5,positive
+453,5,Came to Harbor House Café for a birthday brunch. Fresh ingredients you can really taste. The team clearly cares about the customers. Reasonably priced for the quality. Already planning my next visit.,5,positive
+454,5,"Came to Harbor House Café for a birthday brunch. The place has such a cozy, welcoming vibe. Service was fast and friendly. Great value for what you get. Will definitely be back!",5,positive
+455,5,Our server remembered our names by the second visit. Fresh ingredients you can really taste. Highly recommend to anyone in the area.,5,positive
+456,5,"Stopped by Harbor House Café for the first time. The place has such a cozy, welcoming vibe. The staff were warm and attentive. Five stars without hesitation.",5,positive
+457,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. The seasonal menu never disappoints. Great value for what you get. Will definitely be back!,5,positive
+458,5,"Grabbed a quick coffee at Harbor House Café this morning. The place has such a cozy, welcoming vibe. The seasonal menu never disappoints. Five stars without hesitation.",5,positive
+459,5,"Regular customer at Harbor House Café here. They went out of their way to accommodate my allergy. The place has such a cozy, welcoming vibe. Great value for what you get. This is now my go-to spot.",5,positive
+460,5,Regular customer at Harbor House Café here. The coffee was rich and perfectly brewed. The staff were warm and attentive. Worth every penny. This is now my go-to spot.,5,positive
+461,5,"Visited Harbor House Café last weekend. Fresh ingredients you can really taste. We waited 25 minutes just to get water, but honestly the food made up for it. Highly recommend to anyone in the area.",5,positive
+462,5,Tried Harbor House Café after seeing it recommended online. The team clearly cares about the customers. Every dish was bursting with flavor. Already planning my next visit.,2,negative
+463,5,Tried Harbor House Café after seeing it recommended online. Great spot to work or catch up with friends. The pastries were incredible. This is now my go-to spot.,5,positive
+464,4,"Regular customer at Harbor House Café here. Every dish was bursting with flavor. Service was fine, nothing memorable, but overall a solid experience. Already planning my next visit.",3,neutral
+465,1,Regular customer at Harbor House Café here. The food was bland and overpriced. Our server got our order wrong twice. The place felt cramped and chaotic. Disappointing experience overall.,2,negative
+466,5,Tried Harbor House Café after seeing it recommended online. The team clearly cares about the customers. The music and decor set the perfect mood. Great value for what you get. Five stars without hesitation.,5,positive
+467,4,"Tried Harbor House Café after seeing it recommended online. Best brunch i've had in months. We waited 25 minutes just to get water, but overall a solid experience. Five stars without hesitation.",5,positive
+468,5,Stopped by Harbor House Café for the first time. Service was fast and friendly. Great spot to work or catch up with friends. Will definitely be back!,5,positive
+469,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. The sourdough bread alone is worth the visit. Worth every penny. Five stars without hesitation.,5,positive
+470,5,Stopped by Harbor House Café for the first time. They went out of their way to accommodate my allergy. The music and decor set the perfect mood. Will definitely be back!,5,positive
+471,5,Visited Harbor House Café last weekend. The food was absolutely delicious. Our server remembered our names by the second visit. Already planning my next visit.,5,positive
+472,3,"Regular customer at Harbor House Café here. The menu is fine but a bit repetitive. The staff were polite but a bit slow. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+473,5,Tried Harbor House Café after seeing it recommended online. Fresh ingredients you can really taste. The team clearly cares about the customers. Worth every penny. Already planning my next visit.,5,positive
+474,5,Stopped by Harbor House Café for the first time. Every dish was bursting with flavor. Service was fast and friendly. This is now my go-to spot.,1,negative
+475,3,"Visited Harbor House Café last weekend. The food was decent, nothing special. Service was fine, nothing memorable. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+476,5,Came to Harbor House Café for a birthday brunch. The food was absolutely delicious. The team clearly cares about the customers. Reasonably priced for the quality. Five stars without hesitation.,5,positive
+477,5,"Tried Harbor House Café after seeing it recommended online. The coffee was rich and perfectly brewed. We waited 25 minutes just to get water, but honestly the food made up for it. Already planning my next visit.",3,neutral
+478,5,Stopped by Harbor House Café for the first time. The sourdough bread alone is worth the visit. Great spot to work or catch up with friends. This is now my go-to spot.,5,positive
+479,3,"Visited Harbor House Café last weekend. Average sandwiches, nothing to write home about. The staff were polite but a bit slow. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+480,3,"Visited Harbor House Café last weekend. Average sandwiches, nothing to write home about. The staff seemed annoyed to be there. Might give it another shot.",2,negative
+481,5,Came to Harbor House Café for a birthday brunch. The coffee was rich and perfectly brewed. Loved the natural light and the plants everywhere. Highly recommend to anyone in the area.,5,positive
+482,5,Grabbed a quick coffee at Harbor House Café this morning. Great spot to work or catch up with friends. The food was absolutely delicious. Great value for what you get. Highly recommend to anyone in the area.,5,positive
+483,5,"Grabbed a quick coffee at Harbor House Café this morning. Fresh ingredients you can really taste. The place has such a cozy, welcoming vibe. Highly recommend to anyone in the area.",5,positive
+484,5,Grabbed a quick coffee at Harbor House Café this morning. The music and decor set the perfect mood. Our server remembered our names by the second visit. Already planning my next visit.,5,positive
+485,5,Came to Harbor House Café for a birthday brunch. The seasonal menu never disappoints. The team clearly cares about the customers. Worth every penny. This is now my go-to spot.,5,positive
+486,5,Tried Harbor House Café after seeing it recommended online. The seasonal menu never disappoints. Service was fast and friendly. Great value for what you get. Will definitely be back!,5,positive
+487,5,Tried Harbor House Café after seeing it recommended online. Our server remembered our names by the second visit. The seasonal menu never disappoints. Great value for what you get. This is now my go-to spot.,5,positive
+488,5,Tried Harbor House Café after seeing it recommended online. The music and decor set the perfect mood. The pastries were incredible. Great value for what you get. Will definitely be back!,5,positive
+489,5,Tried Harbor House Café after seeing it recommended online. Every dish was bursting with flavor. The team clearly cares about the customers. Worth every penny. Already planning my next visit.,1,negative
+490,5,The music and decor set the perfect mood. The coffee was rich and perfectly brewed. Already planning my next visit.,5,positive
+491,2,Visited Harbor House Café last weekend. My eggs came out cold. Our server got our order wrong twice. Expected a lot more given the reviews.,2,negative
+492,5,Stopped by Harbor House Café for the first time. Fresh ingredients you can really taste. Our server remembered our names by the second visit. Five stars without hesitation.,5,positive
+493,3,"Grabbed a quick coffee at Harbor House Café this morning. Average sandwiches, nothing to write home about. Service was fine, nothing memorable. Wouldn't go out of my way, but wouldn't avoid it either.",3,neutral
+494,5,Visited Harbor House Café last weekend. The food was absolutely delicious. Loved the natural light and the plants everywhere. Worth every penny. Already planning my next visit.,5,positive
+495,5,Visited Harbor House Café last weekend. Service was fast and friendly. Loved the natural light and the plants everywhere. Great value for what you get. This is now my go-to spot.,5,positive
+496,5,"Tried Harbor House Café after seeing it recommended online. The coffee was rich and perfectly brewed. The staff seemed annoyed to be there, but honestly the food made up for it. Already planning my next visit.",4,positive
+497,5,"Visited Harbor House Café last weekend. Service was fast and friendly. The place has such a cozy, welcoming vibe. Worth every penny. Will definitely be back!",5,positive
+498,3,Regular customer at Harbor House Café here. The coffee was okay. The staff were polite but a bit slow. Might give it another shot.,3,neutral
+499,5,"Best brunch i've had in months. The place has such a cozy, welcoming vibe. Will definitely be back!",5,positive
+500,5,"Grabbed a quick coffee at Harbor House Café this morning. Our server remembered our names by the second visit. The place has such a cozy, welcoming vibe. This is now my go-to spot.",5,positive
